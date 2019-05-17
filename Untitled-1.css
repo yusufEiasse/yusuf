@@ -1,0 +1,14 @@
+a {
+    color: burlywood;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.btns {
+    margin-left:70%;
+}
+
+img{margin-left:85%}
